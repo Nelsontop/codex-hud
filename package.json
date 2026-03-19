@@ -5,7 +5,8 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "codex-hud": "dist/index.js"
+    "codex-hud": "dist/index.js",
+    "codex-hud-live": "dist/live.js"
   },
   "scripts": {
     "build": "tsc",
